@@ -123,14 +123,15 @@ npm start
 ## 🧠 How It Works
 
 ### Resume Analysis Flow
-- 1. User uploads a resume
-- 2. User pastes a job description
-- 3. Resume text is extracted and processed
-- 4. Resume and JD are sent securely to the backend
-- 5. Gemini AI evaluates compatibility
-- 6. AI identifies matching skills and missing requirements
-- 7. Match score and recommendations are generated
-- 8. Results are displayed and can be exported as PDF
+
+1. User uploads a resume
+2. User pastes a job description
+3. Resume text is extracted and processed
+4. Resume and JD are sent securely to the backend
+5. Gemini AI evaluates compatibility
+6. AI identifies matching skills and missing requirements
+7. Match score and recommendations are generated
+8. Results are displayed and can be exported as PDF
 
 ### Skill Gap Detection Flow
 
